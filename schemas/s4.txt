@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is 94D7-58A3
+
+ Directory of D:\repo\test-pse-main\Schemas
+
+25/11/2019  12:19    <DIR>          .
+25/11/2019  12:19    <DIR>          ..
+25/11/2019  12:19               336 s1.txt
+25/11/2019  12:19               380 s2.txt
+25/11/2019  12:19               424 s3.txt
+25/11/2019  12:19                 0 s4.txt
+               4 File(s)          1,140 bytes
+               2 Dir(s)  322,481,610,752 bytes free
